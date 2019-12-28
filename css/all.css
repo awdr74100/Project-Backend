@@ -1,0 +1,18 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft JhengHei', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.loadingoverlay_element:not(.loadingoverlay_fa) {
+  display: none !important;
+}
+
+#canvasbox {
+  height: 800px;
+  width: 1300px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=all.css.map */
